@@ -2,11 +2,12 @@
 
 Color scheme port of [gruvbox](https://github.com/morhetz/gruvbox) dark mode to Sublime Text.  
 
-It's not 100% match to original gruvbox. I've toned down red color a little bit, used different caret color and there are probably lots of inconsistencies in language specific highlighting (ST has different scheme rules than VIM).
-
-If you want to have original red color then change in tmTheme all occurences of `fa5c4b` to `fb4934`.
+This fork of [peaceant/gruvbox](https://github.com/peaceant/gruvbox) has the red corrected as per the instructions in the README.
 
 ## Examples
+
+Note that these examples are directly from @peaceant and don't show the fixed red.
+
 __Python__  
 ![python.png](img/python.png)  
 __JavaScript__  
